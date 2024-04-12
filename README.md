@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&&color=0:E6B9DE,100:B7C4CF&height=200&section=header&fontColor=FFFFFF&text=🌙ᴊɪᴜ's%20ᴘʀᴏғɪʟᴇ🌙&fontSize=50&animation=fadeIn&desc=Hello!%20I'm%20Jiu,%20student%20developer.&descAlignY=65&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=rounded&&color=0:E6B9DE,100:B7C4CF&height=200&section=header&fontColor=FFFFFF&text=🌙ᴊɪᴜ's%20ᴘʀᴏғɪʟᴇ🌙&fontSize=50&animation=fadeIn&desc=Hello!%20I'm%20Jiu,%20a%20student%20developer.&descAlignY=65&descSize=15)
 <br><br>
 
 #### = sᴛᴜᴅʏɪɴɢ ᴛᴇᴄʜ =
