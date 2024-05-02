@@ -27,6 +27,8 @@
 <a href="https://www.instagram.com/h__wbwb?igsh=MWdlaWZmd3l0eG5odQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/h__wbwb?igsh=MWdlaWZmd3l0eG5odQ=="/></a>
 <br><br>
 
+<!--
 #### = ᴍʏ ɢɪᴛ =
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongJiu-wb&layout=compact&langs_count=6)](https://github.com/HongJiu-wb)
 </div>
+-->
